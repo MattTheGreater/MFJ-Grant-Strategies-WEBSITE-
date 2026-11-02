@@ -1,0 +1,6 @@
+# robots.txt for mfjgrantstrategies.com
+# Allow all search and AI crawlers full access to the public site.
+User-agent: *
+Allow: /
+
+Sitemap: https://mfjgrantstrategies.com/sitemap.xml
