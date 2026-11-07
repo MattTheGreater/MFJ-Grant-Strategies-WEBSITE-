@@ -8,6 +8,10 @@
 
 ## About
 - [MFJ Grant Strategies](https://mfjgrantstrategies.com/): Firm overview, founder background, services, and process.
+- [Services](https://mfjgrantstrategies.com/services.html): Every service by function and by sector, with engagement models.
+- [How We Work](https://mfjgrantstrategies.com/how-we-work.html): The four-phase engagement process and fee principles (flat fee or retainer, never contingency).
+- [FAQ](https://mfjgrantstrategies.com/faq.html): Fees, timelines, guarantees, what the portfolio figures mean, 2 CFR 200, and the Single Audit.
+- [Contact](https://mfjgrantstrategies.com/contact.html): Book an initial consultation.
 
 ## Founder
 - [Matthew F. Johnston](https://mfjgrantstrategies.com/about-matt.html), Founder & Principal. Former USAID grants officer (funder side), research-administration experience at VCU College of Engineering (R1 recipient), grants role with the Oneida Indian Nation (tribal recipient), and independent federal grant reviewer. Roughly $425M in federal funding administered or supported across 13 federal agencies over that career; these are portfolios administered, not funds personally awarded or raised. The founder page states precisely what each figure means. Deep fluency in 2 CFR 200 (Uniform Guidance).
@@ -44,10 +48,22 @@
 ## Tools & Examples
 - [Single Audit Readiness Scorecard](https://mfjgrantstrategies.com/single-audit-readiness-scorecard.html): Free twelve-question self-assessment of internal controls against the areas a Single Audit under 2 CFR 200 Subpart F examines. Illustrative; not an audit.
 
+## Knowledge Center articles (by Matthew F. Johnston, published 2026-11-07)
+- [The Complete Guide to 2 CFR 200 for Nonprofit Organizations](https://mfjgrantstrategies.com/2-cfr-200-guide-for-nonprofits.html): The Uniform Guidance subpart by subpart, the five allowability tests, the Single Audit, and where nonprofits stumble.
+- [How to Prepare Your Organization for a Federal Grant Audit](https://mfjgrantstrategies.com/how-to-prepare-for-a-federal-grant-audit.html): What a Single Audit examines, auditee responsibilities, and the records trail to build in advance.
+- [Seven Reasons Federal Grant Applications Fail Before Submission](https://mfjgrantstrategies.com/why-federal-grant-applications-fail.html): Strategic mistakes made before a reviewer reads a word.
+- [How Tribal Governments Can Build Sustainable Federal Funding Portfolios](https://mfjgrantstrategies.com/tribal-federal-funding-portfolios.html): 638 contracts and compacts, formula funding, competitive awards, one grants office, indirect costs and contract support.
+- [What Federal Grant Reviewers Look For in Competitive Applications](https://mfjgrantstrategies.com/what-federal-grant-reviewers-look-for.html): How objective review panels score, from a former independent reviewer.
+- [Winning a Federal Grant vs. Successfully Administering One](https://mfjgrantstrategies.com/winning-vs-administering-federal-grants.html): The post-award obligations that start at the award letter.
+- [How to Establish an Effective Grants Management Department](https://mfjgrantstrategies.com/how-to-build-a-grants-management-department.html): Functions, required written policies, systems, sizing, and when a fractional model fits.
+- [USAID Award Administration: Lessons for Federal Grant Recipients](https://mfjgrantstrategies.com/usaid-award-administration-lessons.html): What funder-side administration teaches every recipient.
+
 ## Guides & Resources
 - [MFJ Grants Intelligence](https://mfjgrantstrategies.com/resources.html): Professional guides, checklists, and reference manuals on federal grants management and 2 CFR 200 compliance (launching soon).
-- [Federal Grants Knowledge Center](https://mfjgrantstrategies.com/knowledge-center.html): Educational articles and original analysis on 2 CFR 200, funding strategy, tribal funding, administration, compliance, and institutional capacity (new articles in development).
+- [Federal Grants Knowledge Center](https://mfjgrantstrategies.com/knowledge-center.html): Educational articles and original analysis on 2 CFR 200, funding strategy, tribal funding, administration, compliance, and institutional capacity (eight signature articles published).
 
 ## Contact
 - Email: m@mfjgrantstrategies.com
+- Phone: +1 (202) 826-5656
+- LinkedIn: https://www.linkedin.com/in/mattfjohnston/
 - Website: https://mfjgrantstrategies.com/
