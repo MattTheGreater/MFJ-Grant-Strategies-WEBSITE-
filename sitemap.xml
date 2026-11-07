@@ -43,9 +43,33 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://mfjgrantstrategies.com/higher-education-grants-management.html</loc>
+    <lastmod>2026-11-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mfjgrantstrategies.com/nonprofit-ngo-grants-management.html</loc>
+    <lastmod>2026-11-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://mfjgrantstrategies.com/federal-funding-strategy.html</loc>
+    <lastmod>2026-11-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://mfjgrantstrategies.com/resources.html</loc>
     <lastmod>2026-11-06</lastmod>
     <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://mfjgrantstrategies.com/knowledge-center.html</loc>
+    <lastmod>2026-11-06</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
 </urlset>

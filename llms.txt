@@ -19,6 +19,9 @@
 - [USAID & Federal Assistance Award Management](https://mfjgrantstrategies.com/usaid-grant-management.html): Award management for NGOs and development organizations, informed by funder-side USAID experience.
 - [Federal Grant Readiness Assessments](https://mfjgrantstrategies.com/grant-readiness-assessments.html): An honest read on capacity, financial health, and documentation before applying.
 - [Municipal Grant Consulting](https://mfjgrantstrategies.com/municipal-grant-consulting.html): Cross-agency federal funding strategy and administration for cities and counties.
+- [Higher Education & Research Grants Management](https://mfjgrantstrategies.com/higher-education-grants-management.html): Sponsored programs and research administration for universities and research institutions.
+- [Nonprofit & International NGO Grants Management](https://mfjgrantstrategies.com/nonprofit-ngo-grants-management.html): Award administration, compliance, and diversified funding strategy for nonprofits and NGOs.
+- [Federal Funding Strategy](https://mfjgrantstrategies.com/federal-funding-strategy.html): Opportunity identification and cross-agency portfolio development.
 - Post-award grant administration, grant portfolio management, and grant strategy and development.
 
 ## Who We Serve
@@ -39,6 +42,7 @@
 
 ## Guides & Resources
 - [MFJ Grants Intelligence](https://mfjgrantstrategies.com/resources.html): Professional guides, checklists, and reference manuals on federal grants management and 2 CFR 200 compliance (launching soon).
+- [Federal Grants Knowledge Center](https://mfjgrantstrategies.com/knowledge-center.html): Educational articles and original analysis on 2 CFR 200, funding strategy, tribal funding, administration, compliance, and institutional capacity (new articles in development).
 
 ## Contact
 - Email: m@mfjgrantstrategies.com
