@@ -273,4 +273,31 @@ section{padding:66px 0}
 .svc-links a{text-decoration:none; display:block}
 .svc-links .card h3{display:flex; justify-content:space-between; align-items:baseline; gap:12px}
 .svc-links .card h3 .arr{color:var(--brass); font-family:var(--serif); font-weight:400}
+.answer{background:#EEF2EA; border:1px solid var(--sage); border-left:3px solid var(--green-700); border-radius:8px; padding:22px 26px; margin-top:26px; max-width:72ch; font-size:17.5px; color:#1D231E; line-height:1.55}
+.answer b{color:var(--green-800)}
+
+/* ===================== Founder page / claims table ===================== */
+.claims{width:100%; border-collapse:collapse; background:var(--card); border:1px solid var(--line); border-radius:8px; overflow:hidden; font-size:15.5px}
+.claims th,.claims td{text-align:left; padding:16px 18px; border-top:1px solid var(--line); vertical-align:top}
+.claims thead th{border-top:none; font-family:var(--label); font-size:10.5px; letter-spacing:.14em; text-transform:uppercase; color:var(--muted); background:var(--paper-2)}
+.claims td b{color:var(--green-800); font-weight:600; display:block; margin-bottom:3px}
+.claims td{color:#33392F}
+@media(max-width:760px){.claims thead{display:none} .claims tr{display:block; border-top:1px solid var(--line)} .claims td{display:block; border-top:none; padding:10px 18px}}
+
+/* ===================== Scorecard ===================== */
+.sc-q{background:var(--card); border:1px solid var(--line); border-radius:8px; padding:22px 26px; margin-bottom:14px}
+.sc-q .area{font-family:var(--label); font-size:10.5px; letter-spacing:.14em; text-transform:uppercase; color:var(--brass); margin-bottom:8px}
+.sc-q .qt{font-family:var(--display); font-size:19px; color:var(--green-800); margin-bottom:14px; line-height:1.3}
+.sc-opts{display:flex; gap:10px; flex-wrap:wrap}
+.sc-opts label{font-family:var(--label); font-size:13px; padding:9px 16px; border:1px solid var(--sage); border-radius:30px; cursor:pointer; background:rgba(255,255,255,.5); color:var(--green-700); transition:.2s}
+.sc-opts input{display:none}
+.sc-opts input:checked + span{background:var(--green-700); color:#F4EFE3; border-color:var(--green-700); padding:9px 16px; border-radius:30px; margin:-9px -16px; display:inline-block}
+.sc-result{background:var(--green-800); color:#ECE6D6; border-radius:10px; padding:34px 36px; margin-top:30px; display:none}
+.sc-result.show{display:block}
+.sc-result .big{font-family:var(--display); font-size:48px; font-weight:600; color:#fff; line-height:1}
+.sc-result .big span{font-size:18px; color:#C7CFBF; font-family:var(--serif); font-weight:400}
+.sc-result h3{color:#fff; margin:14px 0 10px; font-size:22px}
+.sc-result p{color:#CDD4C4; font-size:16px; margin-bottom:10px; max-width:70ch}
+.sc-result ul{margin:10px 0 0 18px; color:#DDE2D2; font-size:15.5px}
+.sc-result li{margin-bottom:6px}
 

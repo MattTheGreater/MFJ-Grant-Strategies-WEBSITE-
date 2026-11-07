@@ -10,7 +10,7 @@
 - [MFJ Grant Strategies](https://mfjgrantstrategies.com/): Firm overview, founder background, services, and process.
 
 ## Founder
-- Matthew F. Johnston, Founder & Principal. ~$425M+ in federal funding administered across 13 federal agencies. Deep fluency in 2 CFR 200 (Uniform Guidance).
+- [Matthew F. Johnston](https://mfjgrantstrategies.com/about-matt.html), Founder & Principal. Former USAID grants officer (funder side), research-administration experience at VCU College of Engineering (R1 recipient), grants role with the Oneida Indian Nation (tribal recipient), and independent federal grant reviewer. Roughly $425M in federal funding administered or supported across 13 federal agencies over that career; these are portfolios administered, not funds personally awarded or raised. The founder page states precisely what each figure means. Deep fluency in 2 CFR 200 (Uniform Guidance).
 
 ## Services
 - [Federal Grants Management](https://mfjgrantstrategies.com/federal-grants-management.html): Post-award administration from award setup to closeout.
@@ -22,6 +22,7 @@
 - [Higher Education & Research Grants Management](https://mfjgrantstrategies.com/higher-education-grants-management.html): Sponsored programs and research administration for universities and research institutions.
 - [Nonprofit & International NGO Grants Management](https://mfjgrantstrategies.com/nonprofit-ngo-grants-management.html): Award administration, compliance, and diversified funding strategy for nonprofits and NGOs.
 - [Federal Funding Strategy](https://mfjgrantstrategies.com/federal-funding-strategy.html): Opportunity identification and cross-agency portfolio development.
+- [Fractional Grants Department](https://mfjgrantstrategies.com/fractional-grants-department.html): An outsourced, part-time grants office on a monthly retainer, covering research, proposals, administration, compliance, reporting, and training. Never contingency-based.
 - Post-award grant administration, grant portfolio management, and grant strategy and development.
 
 ## Who We Serve
@@ -39,6 +40,9 @@
 
 ## Location
 - Based in Richmond, Virginia. Serving clients nationwide.
+
+## Tools & Examples
+- [Single Audit Readiness Scorecard](https://mfjgrantstrategies.com/single-audit-readiness-scorecard.html): Free twelve-question self-assessment of internal controls against the areas a Single Audit under 2 CFR 200 Subpart F examines. Illustrative; not an audit.
 
 ## Guides & Resources
 - [MFJ Grants Intelligence](https://mfjgrantstrategies.com/resources.html): Professional guides, checklists, and reference manuals on federal grants management and 2 CFR 200 compliance (launching soon).
